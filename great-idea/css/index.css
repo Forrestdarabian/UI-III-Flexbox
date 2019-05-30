@@ -309,3 +309,8 @@ footer p {
 	margin: auto;
 }
 
+.cta {
+	display: flex;
+	align-content: center;
+	border: 1px solid green ;
+  }
